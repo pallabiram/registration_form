@@ -5,7 +5,8 @@
   "repository": "https://github.com/pallabiram/websiteLerner.git",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "build":"npm i"
   },
   "author": "pallavi",
   "license": "ISC",
